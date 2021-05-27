@@ -1,0 +1,127 @@
+.df {
+    display: flex;
+}
+
+.jc_b {
+    justify-content: space-between;
+}
+
+.jc_c {
+    justify-content: center;
+}
+
+.jc_a {
+    justify-content: space-around;
+}
+
+.jc_e {
+    justify-content: flex-end;
+}
+
+.ai_c {
+    align-items: center;
+}
+
+.flx {
+    flex: 1;
+}
+
+.fd_c {
+    flex-direction: column;
+}
+
+.fd_r {
+    flex-direction: row;
+}
+
+.fw {
+    flex-wrap: wrap;
+}
+
+.mt {
+    margin-top: 10px;
+}
+
+.ml {
+    margin-left: 10px;
+}
+
+.mr {
+    margin-right: 10px;
+}
+
+.mb {
+    margin-bottom: 10px;
+}
+
+.bo {
+    border: 1px gray solid;
+}
+
+.tex {
+    text-align: center;
+}
+
+.pa {
+    position: absolute;
+}
+
+.pr {
+    position: relative;
+}
+
+.poi {
+    cursor: pointer;
+}
+
+.bor {
+    border-radius: 50%;
+}
+
+.wt {
+    width: 100%;
+}
+
+.ai_s {
+    align-items: flex-start;
+}
+
+.fss {
+    font-size: small;
+}
+
+.fssr {
+    font-size: smaller;
+}
+
+.fsl {
+    font-size: large;
+}
+
+.fslr {
+    font-size: larger;
+}
+
+.ma {
+    margin: 0 auto;
+}
+
+.pt {
+    padding-top: 10px;
+}
+
+.pb {
+    padding-bottom: 10px;
+}
+
+.pl {
+    padding-left: 10px;
+}
+
+.pr1 {
+    padding-right: 10px;
+}
+
+.fxe {
+    flex: end;
+}
